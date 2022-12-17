@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 779592240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 629b7dcd7dba61f49624e4a7b14e6521
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/4.png
+Dependencies: []

@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 4202479464
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audio/music/bg_music.mp3.ab
+      Dependencies: {}
+    Info_1:
+      Name: audio/sound/ui_touch.wav.ab
+      Dependencies: {}
+    Info_2:
+      Name: audio/sound/ui_win_close.mp3.ab
+      Dependencies: {}
+    Info_3:
+      Name: model/mat/blue.mat.ab
+      Dependencies: {}
+    Info_4:
+      Name: model/mat/red.mat.ab
+      Dependencies: {}
+    Info_5:
+      Name: model/prefabs/cube.prefab.ab
+      Dependencies:
+        Dependency_0: model/mat/blue.mat.ab
+    Info_6:
+      Name: model/prefabs/plane.prefab.ab
+      Dependencies:
+        Dependency_0: model/mat/red.mat.ab
+    Info_7:
+      Name: scenes/main.unity.ab
+      Dependencies: {}
+    Info_8:
+      Name: ui/prefabs/testui.prefab.ab
+      Dependencies:
+        Dependency_0: ui/res/2.png.ab
+        Dependency_1: ui/res/6.png.ab
+        Dependency_2: ui/res/7.png.ab
+    Info_9:
+      Name: ui/res/1.png.ab
+      Dependencies: {}
+    Info_10:
+      Name: ui/res/2.png.ab
+      Dependencies: {}
+    Info_11:
+      Name: ui/res/3.png.ab
+      Dependencies: {}
+    Info_12:
+      Name: ui/res/4.png.ab
+      Dependencies: {}
+    Info_13:
+      Name: ui/res/5.png.ab
+      Dependencies: {}
+    Info_14:
+      Name: ui/res/6.png.ab
+      Dependencies: {}
+    Info_15:
+      Name: ui/res/7.png.ab
+      Dependencies: {}
+    Info_16:
+      Name: ui/res/gem.png.ab
+      Dependencies: {}
+    Info_17:
+      Name: ui/res/gold.png.ab
+      Dependencies: {}
